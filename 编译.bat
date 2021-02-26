@@ -1,0 +1,1 @@
+pyinstaller -F --icon=icon.ico '.\Windows10 版本升降器.py'
