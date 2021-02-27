@@ -11,8 +11,8 @@
 - 最新版本: 1.0
 - 编译日期: 2021-2-27
 - 下载地址: [https://gitee.com/ddos_ling/windows-10-version-lifter/releases/](https://gitee.com/ddos_ling/windows-10-version-lifter/releases/)
-- 开源地址: [https://gitee.com/ddos_ling/windows-10-version-lifter](https://gitee.com/ddos_ling/windows-10-version-lifter)
-
+- Gitee开源地址: [https://gitee.com/ddos_ling/windows-10-version-lifter](https://gitee.com/ddos_ling/windows-10-version-lifter)
+- Github开源地址: [https://github.com/ddos-ling/windows-10-version-lifter](https://github.com/ddos-ling/windows-10-version-lifter)
 
 # 风险说明
 已正版授权的系统通过该软件升降系统后原许可证将无效，**可能失去正版授权系统！**
